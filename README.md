@@ -2,12 +2,12 @@
 
 This repository contains files related to the human belief change research project, undertaken by Clayton K. Baker (Master's student at the time of writing at the University of Cape Town and CAIR) and Prof Tommie Meyer (Professor of Computer Science at the University of Cape Town and CAIR).
 
-Each experiment (there are 4 total) has its own folder and associated files:
-> data collection
+For each experiment (there are 4 total), we use the following folder structure:
+> data collection (raw data)
 
-> data cleaning
+> data cleaning (data cleaning codebooks/scripts)
 
-> data analysis
+> data analysis (data analysis codebooks, calculations and graphs)
 
 For each experiment, you will find raw data (.csv), cleaned data (.csv), codebooks (.xlxs), and analysis spreadsheets (.xlxs). 
 
