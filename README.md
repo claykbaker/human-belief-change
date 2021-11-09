@@ -9,7 +9,7 @@ For each experiment (there are 4 total), we use the following folder structure:
 
 > data analysis (data analysis codebooks, calculations and graphs)
 
-Additionally, where R was used to program the data cleaning step, we provide the .rproj file. The .rproj file is an application that runs on RStudio written in the R programming language. The requirement for execution is that RStudio has access to the data cleaning folder and its subfolders which contain the program scripts, data input, data output and figure output.
+Additionally, where R was used to program the data cleaning step, we provide the .rproj file. The .rproj file is an application that runs on RStudio. The requirement for execution is that you have downloaded RStudio and the subfolders contained in the data cleaning folder.
 
 While the raw data is made available, care has been taken to remove participants' personal identifiers (MTurk Worker ID). It may be the case that the raw data contains duplicate responses or incomplete responses. This has been accounted for in the data cleaning step such that our final codebooks and cleaned data contain unique, complete responses. 
 
